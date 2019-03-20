@@ -13,3 +13,11 @@ a{
 .button{
   display:inline-block;
 }
+
+
+p.bed{
+  border-style: double;
+  border-width:thick;
+  border-color: white;
+  
+}
